@@ -1,0 +1,19 @@
+{
+  "name": "wholebakeisland",
+  "version": "1.0.0",
+  "description": "Baking Recipe Calculator - Scale cake recipes based on pan sizes",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step needed'",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "baking",
+    "recipe",
+    "calculator",
+    "cake"
+  ],
+  "author": "Whole Bake Island",
+  "license": "MIT"
+}
